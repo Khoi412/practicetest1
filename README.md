@@ -1,16 +1,14 @@
-# Project XYZ
+# Health Care Insurance Project
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
-
+* Health Care Insurance dataset contains information on personal attributes and is complied into 7 categories(age, gender, BMI, family size, smoker or non-smoker, region and charges). This data set has 7 columns and 1338 rows.  
 
 ## Business Requirements
-* Describe your business requirements
+*  Make a correlations on these factors and see how it affects health insurance charges.  
 
 
 ## Hypothesis and how to validate?
